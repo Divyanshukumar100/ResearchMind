@@ -1,0 +1,6 @@
+{
+  "name": "ResearchMind",
+  "description": "Multi-Agent Research System designed to scrape, analyze, and compile deep research reports on any topic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
